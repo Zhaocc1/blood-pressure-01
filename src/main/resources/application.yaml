@@ -1,0 +1,9 @@
+server:
+  port: 8090
+
+spring:
+  datasource:
+    url: jdbc:mysql://106.13.45.218:3306/blood_pressure
+    username: root
+    password: 1qaz2wsx!
+    driver-class-name: com.mysql.jdbc.Driver
